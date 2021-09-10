@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c0f8251-de72-40c8-8dc9-35446fcfdf26" name="Default Changelist" comment="init">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/application.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basho/decorator/ComplexMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basho/decorator/LogMessageFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basho/decorator/LogMessageJSONFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basho/decorator/SystemLogMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basho/decorator/thirdparty/LogMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basho/observer/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basho/observer/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basho/observer/CustomerEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basho/observer/ObserverApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basho/observer/service/AuthenticationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basho/observer/service/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basho/observer/service/EmailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basho/singleton/Configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basho/singleton/PoolManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/basho/singleton/PoolManagerUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" afterDir="false" />
+    <list default="true" id="9c0f8251-de72-40c8-8dc9-35446fcfdf26" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/META-INF/application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/META-INF/application.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +33,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -64,8 +49,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631299905936</updated>
-      <workItem from="1631299907488" duration="349000" />
+      <workItem from="1631299907488" duration="1364000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1631300344870</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631300344870</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,13 +70,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="231" y="25" key="CommitChangelistDialog2" timestamp="1631300110932">
+    <state x="231" y="25" key="CommitChangelistDialog2" timestamp="1631300343709">
       <screen x="0" y="25" width="1280" height="702" />
     </state>
-    <state x="231" y="25" key="CommitChangelistDialog2/0.25.1280.702@0.25.1280.702" timestamp="1631300110932" />
-    <state x="240" y="113" key="Vcs.Push.Dialog.v2" timestamp="1631300326447">
+    <state x="231" y="25" key="CommitChangelistDialog2/0.25.1280.702@0.25.1280.702" timestamp="1631300343709" />
+    <state x="240" y="113" key="Vcs.Push.Dialog.v2" timestamp="1631301431071">
       <screen x="0" y="25" width="1280" height="702" />
     </state>
-    <state x="240" y="113" key="Vcs.Push.Dialog.v2/0.25.1280.702@0.25.1280.702" timestamp="1631300326447" />
+    <state x="240" y="113" key="Vcs.Push.Dialog.v2/0.25.1280.702@0.25.1280.702" timestamp="1631301431071" />
   </component>
 </project>
